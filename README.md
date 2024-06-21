@@ -1,24 +1,13 @@
 # autoscout24_scraping
 autoscout24 website scraping
 
-STEP 0 :
-        # install dependencies using this command : 
-        pip install -r requirement.txt
-        
-STEP 1 :
-        # Scrap URLs : 
-        Run this file : step_1_scrap_autoscout24.py
-        
-STEP 2 :
-        # Divide scraped urls into chunks : 
-        Run this file : step_2_divide_chunk.py
-        
-STEP 3 :
-        # Fetch data from website : 
-        Run this file : step_3_fetch_data_autoscout24.py
-        
-STEP 4 :
-        # combine the jsons and store into final_result : 
-        Run this file : step_4_result.py
+1 = user this file
+2 = this is output once completed
+3 = use coutry which you want to scrap ( sample value is provided in round circle)
+4 = brands you want to scrap arrow show sample value you can provide
+5 = output folder where you will get output file same as you have provided
 
-The end result will be in folder final_result
+while you run this file it will ask to enter file name in console.
+make sure you provide unique name other wise it will be override it.
+
+![image](https://github.com/pipluspi/autoscout24_scraping/assets/6490753/32851f17-301e-461c-9254-487861485644)
